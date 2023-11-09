@@ -137,8 +137,8 @@ a {
 }
 
 
-a[href]:not([href=""]) {
-    display: inline-block;
+a[href] {
+
 }
 a[href]:visited {
     font-style: italic;
